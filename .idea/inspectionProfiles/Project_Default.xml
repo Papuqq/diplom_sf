@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="NewsPaper.mc_donalds.models.labor" />
+          <option value="news.project.urls.project" />
+          <option value="news.project.admin.*" />
+          <option value="django.db.models.fields.CharField.title" />
+          <option value="news.celery.agrs" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
