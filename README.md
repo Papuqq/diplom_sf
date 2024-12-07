@@ -18,8 +18,10 @@
 <h2>Логины и пароли для входа:</h2>
 <p>
 manager:
-login:admin, password:admin
+login: admin
+password: admin
 <p/> <p>
 client:
-login:Grigory, password: 7JA-dNt-7fe-7SE
+login: Grigory
+password: 7JA-dNt-7fe-7SE
 </p>
