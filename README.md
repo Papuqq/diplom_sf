@@ -19,6 +19,7 @@
 <p>
 manager:
 login:admin, password:admin
+<p/> <p>
 client:
 login:Grigory, password: 7JA-dNt-7fe-7SE
 </p>
